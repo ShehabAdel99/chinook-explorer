@@ -3,7 +3,8 @@ name = "chinook-explorer"
 version = "1.0.0"
 description = "A comprehensive Python package for analyzing and visualizing Chinook music store data with business intelligence capabilities"
 authors = [
-    {name = "ShehabAdel99", email = "shehab.adel@tu-dortmund.de"}
+    {name = "Shehab Moharram", email = "shehab.moharram@tu-dortmund.de"},
+    {name = "Mohamed Elgabry", email = "mohamed.elgabry@tu-dortmund.de"}
 ]
 readme = "README.md"
 license = {file = "LICENSE.txt"}
